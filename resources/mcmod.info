@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dimensionalPocket",
+  "name": "Dimensional Pockets",
+  "description": "Compacting to a whole new dimension.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Jezza", "NPException", "ASB2", "Gellegbs"],
+  "credits": "The MCP team for hosting an awesome comp, and everyone on the team!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
